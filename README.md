@@ -8,9 +8,9 @@
 
 Результаты предсказаний находятся в папках [openfold](/openfold) и [omegafold](/omegafold)
 
-результат парного выравнивания: [Results](/Results.png)
+результат парного выравнивания: 
 
-![profit_res](/ProFit_results/profit_result.png)
+![Results](/Results.png)
 
 Визуализация структуры:
 
